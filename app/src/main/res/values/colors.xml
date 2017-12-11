@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff0004</color>
+    <color name="colorPrimaryDark">#ff000d</color>
+    <color name="colorAccent">#ff000d</color>
+    <color name="verde">#2afa00</color>
+    <color name="cardview_task">#000000</color>
+    <color name="white">#393939</color>
+    <color name="blanco">#fffefe</color>
+    <color name="negro">#000000</color>
+
+</resources>

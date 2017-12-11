@@ -1,0 +1,18 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hellmail.hellmail.Vistas.Fragmentos.MsgEnviadoFragment">
+
+    <include layout="@layout/content"></include>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/btnAdd"
+        android:layout_width="70dp"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom|right"
+        android:layout_marginBottom="65dp"
+        app:backgroundTint="@android:color/holo_blue_dark"
+        app:srcCompat="@android:drawable/ic_input_add" />
+</FrameLayout>

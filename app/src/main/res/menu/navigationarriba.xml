@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/bontonrecibido"
+        android:icon="@drawable/ic_playlist_add_check_white_48dp"
+        android:title="@string/recibido" />
+
+    <item
+        android:id="@+id/botonenviado"
+        android:icon="@drawable/ic_playlist_play_white_48dp"
+        android:title="@string/enviado" />
+</menu>

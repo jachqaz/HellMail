@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/botonperfil"
+        android:icon="@drawable/ic_perm_identity_white_48dp"
+        android:title="@string/perfil" />
+
+    <item
+        android:id="@+id/botonmensajes"
+        android:enabled="true"
+        android:icon="@drawable/ic_forum_white_48dp"
+        android:title="@string/msg" />
+</menu>

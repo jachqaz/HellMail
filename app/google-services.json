@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "240719639981",
+    "firebase_url": "https://hellmail-4681c.firebaseio.com",
+    "project_id": "hellmail-4681c",
+    "storage_bucket": "hellmail-4681c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240719639981:android:5df574b33ffb7e3b",
+        "android_client_info": {
+          "package_name": "com.hellmail.hellmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240719639981-khlihh0h2cd2kn5heltkscnjfhbg2vbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellmail.hellmail",
+            "certificate_hash": "ecac4791fec54477469beefb941b95f98f7f6fc7"
+          }
+        },
+        {
+          "client_id": "240719639981-vf0fmhku0l670ilsppfa1623mf1gotlq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hellmail.hellmail",
+            "certificate_hash": "7049d36a247e6a92e2be1cc426cb260f2287a2f8"
+          }
+        },
+        {
+          "client_id": "240719639981-jmodvnppie30lagik9itifbos1i3l8t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMvOZOQmiTSskU2NtXBe4DN5YT_W971yM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240719639981-jmodvnppie30lagik9itifbos1i3l8t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
